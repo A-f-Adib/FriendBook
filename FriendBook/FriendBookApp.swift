@@ -11,7 +11,11 @@ import SwiftUI
 struct FriendBookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            GIthubProfileView()
+//            newContentView()
+//            BreakingJSON()
+            ImageFilter()
         }
     }
 }
